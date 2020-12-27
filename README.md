@@ -20,4 +20,6 @@ User Site:
 3. Read data from students table of MySQL and store them in students.xml file.
 4. List files in a directory.
 
-![alt text](https://ibb.co/55xcwPj)
+![alt text](https://i.ibb.co/kh6cvtD/Screenshot-209.png" alt="Screenshot-209)
+
+![alt text](https://i.ibb.co/d0G4SHG/Screenshot-210.png" alt="Screenshot-210)
