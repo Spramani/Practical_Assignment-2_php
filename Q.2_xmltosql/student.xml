@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <items> 
      <item>
-         <name>Raj</name>
-         <standard>9th</standard>
+         <name>shubham</name>
+         <standard>msc ict</standard>
 	     <address>Surat</address>
      </item> 
      <item>
-         <name>Dhara</name>
-         <standard>10th</standard>
+         <name>tushar</name>
+         <standard>bca</standard>
 	     <address>Ahemdabad</address>
      </item> 
      <item>
-         <name>Piyush</name>
-         <standard>8th</standard>
+         <name>nitin</name>
+         <standard>bsc</standard>
 	     <address>Surat</address>
      </item> 
  </items>
