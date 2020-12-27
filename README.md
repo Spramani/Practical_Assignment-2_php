@@ -5,16 +5,7 @@ Admin Site:
 2) Manage Category (CRUD)
 3) Manage Products (Product data with pictures. Upload picture and resize them)
 4) Logout
-Garments
-Mobiles
-Laptops
 
-Pic
-pname price
-
-p2 p3
-
-p4
 
 User Site:
 1) List Categories
