@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <items> 
+     <item>
+         <name>Raj</name>
+         <standard>9th</standard>
+	     <address>Surat</address>
+     </item> 
+     <item>
+         <name>Dhara</name>
+         <standard>10th</standard>
+	     <address>Ahemdabad</address>
+     </item> 
+     <item>
+         <name>Piyush</name>
+         <standard>8th</standard>
+	     <address>Surat</address>
+     </item> 
+ </items>
